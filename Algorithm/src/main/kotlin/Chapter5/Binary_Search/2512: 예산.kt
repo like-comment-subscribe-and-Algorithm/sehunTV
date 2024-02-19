@@ -19,8 +19,6 @@ fun main() {
                 } else limit
             }
 
-            Thread.sleep(100)
-            println("aver $limit  max $max min $min sum $sum")
             if (sum <= total) min = limit else max = limit
         }
     }

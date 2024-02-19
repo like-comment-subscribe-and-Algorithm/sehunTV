@@ -1,2 +1,0 @@
-# sehunTV
-with Kotlin
